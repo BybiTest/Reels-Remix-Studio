@@ -1,0 +1,6 @@
+{
+  "name": "Reels Remix Studio",
+  "description": "AI-powered Instagram Reels & Shorts script and hook generator with Persian RTL support, VIP system, and Tapsell ad rewards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
